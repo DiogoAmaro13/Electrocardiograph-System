@@ -5,5 +5,5 @@ In recent times, mechanisms for interpreting vital signs have been playing an in
 Thus, this project aims to develop a real-time monitoring and alert system for the cardiac signal capable of quickly detecting an abnormal variation in it. To this end, an Arduino board was integrated as the main source for detecting and interpreting the cardiac signal, along with LabVIEW which provides the visual component of the project.
 
 <p align="center">
-  <img src="assets/full panel.png" width="350" title="hover text">
+  <img src="assets/full panel.png" width=700 title="hover text">
 </p>
